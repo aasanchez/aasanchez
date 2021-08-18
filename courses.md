@@ -2,4 +2,4 @@
 
 ## Management
 
-* [Platzi:Curso de Engineering Management](https://platzi.com/p/aasanchez/curso/1732-eng-management/diploma/detalle/)
+* [Platzi:Curso de Engineering Management](https://bit.ly/aasanchez-eng-management)
