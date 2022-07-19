@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aasanchez&layout=compact&hide_border=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aasanchez&column=4&margin-w=15&margin-h=15&no-frame=true&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aasanchez&column=4&margin-w=15&margin-h=15&no-frame=true&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)
