@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - 📫 How to reach me: On twitter @aasanchez
 
-![Github Stats for Alexis Sanchez](https://github-readme-stats.vercel.app/api?username=aasanhez&show_icons=true&hide_border=true&count_private=true)
+![Github Stats for Alexis Sanchez](https://github-readme-stats.vercel.app/api?username=aasanchez&show_icons=true&hide_border=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aasanchez&layout=compact&hide_border=true)
 
