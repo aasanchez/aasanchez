@@ -13,6 +13,4 @@ Here are some ideas to get you started:
 
 ![Github Stats for Alexis Sanchez](https://github-readme-stats.vercel.app/api?username=aasanchez&show_icons=true&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aasanchez&layout=compact&hide_border=true)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=aasanchez&column=5&margin-w=24&margin-h=24&no-frame=true&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)
