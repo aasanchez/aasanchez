@@ -3,13 +3,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at @eva-global
-- 🌱 I’m currently learning rust
-- 👯 I’m looking to collaborate on @gitlabhq/gitlabhq
-- 🤔 I’m looking for help with typescript, aws, serverless
-- 💬 Ask me about bash, php, aws
+- 🔭 I’m currently working at @eva-global as Director of Engineering
+- 🌱 I’m currently learning Zig
+- 💬 Ask me about bash, perl, aws, js, ts, golang, rust, php
 - 📫 How to reach me: 
-- 📫 How to reach me: On twitter @aasanchez
+- 📫 How to reach me: On Twitter @aasanchez
 
 ![Github Stats for Alexis Sanchez](https://github-readme-stats.vercel.app/api?username=aasanchez&show_icons=true&hide_border=true&count_private=true)
 
