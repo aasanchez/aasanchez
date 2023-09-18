@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: On Twitter [@aasanchez](https://twitter.com/aasanchez)
 
 ![header](metrics.plugin.header.svg)
+![languages](metrics.plugin.languages.svg)
 ![achievements](metrics.plugin.achievements.svg)
 ![habits](metrics.plugin.habits.svg)
 ![posts](metrics.plugin.posts.svg)
