@@ -120,18 +120,6 @@ jobs:
         with:
           user: aasanchez
           template: classic
-          filename: metrics.plugin.lines.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          config_octicon: yes
-          base: ""
-          plugin_lines: yes
-          plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 4
-          plugin_lines_sections: base
-      - uses: lowlighter/metrics@latest
-        with:
-          user: aasanchez
-          template: classic
           filename: metrics.plugin.posts.svg
           token: ${{ secrets.METRICS_TOKEN }}
           config_octicon: yes
