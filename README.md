@@ -7,3 +7,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about bash, perl, aws, js, ts, golang, rust, php
 - 📫 Lets have conversation: [calendly](https://calendly.com/aasanchez)
 - 📫 How to reach me: On Twitter [@aasanchez](https://twitter.com/aasanchez)
+
+![github-metrics](/github-metrics.svg)
